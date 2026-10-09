@@ -27,9 +27,9 @@ if (!ADMIN_PASSWORD) {
    OFERTAS — EDITA AQUÍ TUS PRECIOS REALES
    ============================================================ */
 const OFERTAS = {
-  "1": { unidades: 1, precio: 1,400.00, etiqueta: "2 Jeringa BaitX" },
-  "2": { unidades: 2, precio: 2,600.00, etiqueta: "4 jeringas BaitX (más vendida)" },
-  "3": { unidades: 3, precio: 3,300.00, etiqueta: "6 jeringas BaitX" },
+  "1": { unidades: 1, precio: 1400, etiqueta: "2 Jeringa BaitX" },
+  "2": { unidades: 2, precio: 2600, etiqueta: "4 jeringas BaitX (más vendida)" },
+  "3": { unidades: 3, precio: 3300, etiqueta: "6 jeringas BaitX" },
 };
 
 /* ============================================================
