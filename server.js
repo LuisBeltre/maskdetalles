@@ -10,7 +10,7 @@ const {
   PORT = 3000,
   WHATSAPP_TOKEN, // el mismo token permanente del bot de BaitX
   PHONE_NUMBER_ID, // el mismo Phone Number ID del bot
-  GRAPH_VERSION = "v25.0",
+  GRAPH_VERSION = "v26.0",
   OWNER_PHONE, // tu WhatsApp personal, con código de país, sin "+"
   ADMIN_USER = "admin",
   ADMIN_PASSWORD, // contraseña para ver los pedidos en /admin — sin esto, /admin queda bloqueado
